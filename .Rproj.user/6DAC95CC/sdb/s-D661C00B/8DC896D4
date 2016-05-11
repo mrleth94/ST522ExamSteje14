@@ -1,0 +1,17 @@
+{
+    "contents" : "exportPattern(\"^[[:alpha:]]+\")\n",
+    "created" : 1462959113543.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4116331488",
+    "id" : "8DC896D4",
+    "lastKnownWriteTime" : 1462959052,
+    "path" : "~/ST522ExamSteje14/NAMESPACE",
+    "project_path" : "NAMESPACE",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "type" : "r_namespace"
+}

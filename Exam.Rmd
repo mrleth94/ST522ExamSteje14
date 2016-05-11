@@ -1,0 +1,13 @@
+---
+title: "Exam"
+author: "Steffan Leth"
+date: "11. maj 2016"
+output: html_document
+---
+
+```{r}
+install.packages("devtools")
+install.packages("roxygen2")
+library(devtools)
+library(roxygen2)
+```

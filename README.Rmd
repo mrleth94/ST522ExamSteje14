@@ -1,0 +1,8 @@
+---
+title: "RAEDME"
+author: "Steffan Leth"
+date: "11. maj 2016"
+output: html_document
+---
+
+WHAT EVER I WANT
