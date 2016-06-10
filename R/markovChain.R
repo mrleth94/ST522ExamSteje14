@@ -34,7 +34,7 @@ markovChain <- function(p,k,n = 1000){
           stop("The sum of the elements in each row of 'p' has to be 1")
         }
         for (j in 1:dim(p)[1]){
-          if(!p[i,j]>0){
+          if(!p[i,j]>=0){
             stop("Your probability must be positive")
           }
         }
